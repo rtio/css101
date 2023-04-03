@@ -1,0 +1,23 @@
+### github
+
+### -- PERSONAL/MAIN ACCOUNT --
+
+Host github.com
+  Hostname github.com
+  User <YOUR GITHUB USERNAME>
+  IdentityFile ~/.ssh/<YOUR PERSONAL SSH KEY>
+
+### -- WORK PERSONA/ACCOUNT --
+
+Host github.com-work
+  Hostname github.com
+  User <YOUR GITHUB USERNAME>
+  IdentityFile ~/.ssh/<YOUR WORK SSH KEY>
+
+### general
+
+Host *
+  AddKeysToAgent yes
+  IdentitiesOnly yes
+  PreferredAuthentications publickey
+  Compression yes
