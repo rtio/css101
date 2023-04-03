@@ -1,0 +1,72 @@
+body {
+    padding: 20px;
+}
+
+p {
+    color: blue;
+}
+
+/* class/id */
+.my-p {
+    color: cyan;
+    background-color: grey;
+}
+
+#main-title {
+    background-color: cadetblue;
+    color: black;
+    padding: 10px;
+    font-family: Georgia;
+}
+
+/* all elements, lists, etc. */
+* {
+    font-family: Arial;
+}
+
+p, h1 {
+    border-bottom: 1px solid black;
+}
+
+/* colors */
+.color-name {
+    color: pink;
+}
+
+.hexa {
+    color: #aa5252;
+}
+
+.rgb {
+    color: rgb(146, 57, 57);
+}
+
+/* fonts */
+.serif {
+    font-family: Georgia;
+}
+
+.sans-serif {
+    font-family: Helvetica;
+}
+
+.mono {
+    font-family: 'Courier New';
+}
+
+/* size and weight */
+.big-text {
+    font-size: 30px;
+}
+
+.small-text {
+    font-size: 8px;
+}
+
+.heavy-text {
+    font-weight: bold;
+}
+
+.italy {
+    font-style: italic;
+}
