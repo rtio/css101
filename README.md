@@ -1,32 +1,27 @@
-# GitHub Configuration Files for Multi-SSH and GPG Keys Usage
+# Project Title
 
-This repository contains a set of configuration files and instructions for setting up multiple SSH and GPG keys on your GitHub account.
-
-## Useful URLs
-
-- https://markentier.tech/posts/2021/02/github-with-multiple-profiles-gpg-ssh-keys/
-- https://git-scm.com/docs/git-config.html#_example
-- https://git-scm.com/docs/git-config.html#FILES
+HTML and CSS Example for Educational Purposes
 
 ## Description
 
-Are you tired of having to constantly switch between SSH and GPG keys for different repositories on GitHub? This repository provides a solution by allowing you to set up multiple SSH and GPG keys for your GitHub account, making it easier to work across multiple repositories.
+This is an HTML page with a CSS example intended for educational purposes only. The purpose of this repository is to provide students with a basic understanding of HTML and CSS, as well as to serve as a starting point for building more complex web pages.
 
-## How to Contribute
+## Contributing
 
-Contributions are welcome and appreciated! To contribute to this project, follow these steps:
+Thank you for considering contributing to this project! To get started, please follow these steps:
 
-- Fork this repository.
-- Create a new branch: git checkout -b my-new-branch
-- Make your changes and commit them: git commit -am 'Add some feature'
-- Push to the branch: git push origin my-new-branch
-- Submit a pull request.
-- We'll review your changes and merge them if they look good!
+- Fork this repository
+- Create a new branch (`git checkout -b new-feature`)
+- Make your changes and commit them (`git commit -am 'Add new feature'`)
+- Push your changes to your fork (`git push origin new-feature`)
+- Create a pull request
+
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms.
 
 ## License
 
-This project is licensed under the (GPL-3)[LICENSE] - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE.md file for details.
 
 ## Contact
 
-If you have any questions or feedback, please feel free to open an issue or contact us.
+If you have any questions or feedback, please feel free to open an issue or contact me.
