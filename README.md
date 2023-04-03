@@ -1,4 +1,4 @@
-# Project Title
+# CSS 101
 
 HTML and CSS Example for Educational Purposes
 
