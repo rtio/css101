@@ -70,3 +70,68 @@ p, h1 {
 .italy {
     font-style: italic;
 }
+
+/* box model */
+.box-model {
+    width: 200px;
+    height: 100px;
+    border: 1px solid blue;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* text properties */
+.aligment {
+    text-align: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+/* space line/letter */
+.space-line {
+    width: 100px;
+    line-height: 40px;
+}
+
+.space-letter {
+    letter-spacing: 5px;
+}
+
+/* links */
+
+.anchor {
+    text-decoration: none;
+}
+
+.anchor-visited:visited {
+    color: orange;
+}
+
+.anchor-hover:hover {
+    background-color: #1292ae;
+}
+
+.anchor-btn {
+    background-color: #34ae43;
+    border: 3px solid #234966;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    width: 120px;
+    padding: 12px 7px;
+    text-align: center;
+    margin: 20px;
+    /* last thing */
+    transition: 0.5s;
+}
+
+.anchor-btn:hover {
+    background-color: #234966;
+}
